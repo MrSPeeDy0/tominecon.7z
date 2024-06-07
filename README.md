@@ -3,6 +3,7 @@ ___
   <img width="100px" src="https://github.com/MrSPeeDy0/tominecon.7z/blob/main/Assets/Photos/7z.png?raw=true" align="center" alt="tomineconzip.7z" />
   <h2 align="center">tominecon.7z</h2>
   <p align="center">Tominecon.7z, an Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
+  <p align="center">All links and files are safe and have already been scanned by VirusTotal.</p>
   <p align="center">
 
 ___
