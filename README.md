@@ -5,10 +5,15 @@
   <p align="center">
 
 ___
+# Downloads
+  **📂 Download Original: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
 
-  **📂 Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
+ **📂 Download Decoy: [tominecon_decoy.7z](https://mega.nz/file/rnhEjTDS#S_lVmxkz1twZb3FDpdxSKh75VR8UKjg9kqn2rH4jq9I)**
+___
+# Passwords
+  **🔑 Password Original: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
 
-  **🔑 Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
+   **🔑 Password Decoy: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password_decoy.txt)**
   
  ___
 
