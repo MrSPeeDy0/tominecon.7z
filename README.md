@@ -1,3 +1,4 @@
+___
 <p align="center">
   <img width="100px" src="https://github.com/MrSPeeDy0/tominecon.7z/blob/main/Assets/Photos/7z.png?raw=true" align="center" alt="tomineconzip.7z" />
   <h2 align="center">tominecon.7z</h2>
@@ -5,15 +6,15 @@
   <p align="center">
 
 ___
-# Downloads
-  **📂 Download Original: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
+# 📥 Downloads
+  **Download Original: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
 
- **📂 Download Decoy: [tominecon_decoy.7z](https://mega.nz/file/rnhEjTDS#S_lVmxkz1twZb3FDpdxSKh75VR8UKjg9kqn2rH4jq9I)**
+ **Download Decoy: [tominecon_decoy.7z](https://mega.nz/file/rnhEjTDS#S_lVmxkz1twZb3FDpdxSKh75VR8UKjg9kqn2rH4jq9I)**
 ___
-# Passwords
-  **🔑 Password Original: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
+# 🔑 Passwords
+  **Password Original: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
 
-   **🔑 Password Decoy: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password_decoy.txt)**
+   **Password Decoy: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password_decoy.txt)**
   
  ___
 
@@ -26,3 +27,4 @@ More information about tominecon.7z:
   [Who cracked the password](https://www.reddit.com/r/tominecon/comments/1cy9n6i/hi_i_am_the_person_who_cracked_the_password/)
   </p>
 </p>
+___
