@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100px" src="https://github.com/MrSPeeDy0/tominecon.7z/blob/main/Assets/7z.png?raw=true" align="center" alt="tomineconzip.7z" />
   <h2 align="center">tominecon.7z</h2>
-  <p align="center">Tominecon.7z, an ancient Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
+  <p align="center">Tominecon.7z, an Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
   <p align="center">
 
 ___
