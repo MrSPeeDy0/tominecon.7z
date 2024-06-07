@@ -9,8 +9,9 @@
   🔑 Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Password.txt)
   
   📁 WinRar : [Click here](https://www.win-rar.com/download.html?&L=0)
+  
 
-More about tominecon.7z:
+More information about tominecon.7z:
   
   [The Full Story of tominecon.7z and its Conclusion](https://www.reddit.com/r/MinecraftUnlimited/comments/1cvo5py/the_full_story_of_tominecon7z_and_its_conclusion/#:~:text=On%20November%2015th%202011%20a,the%20build%20of%20Minecraft%201.0.)
   
