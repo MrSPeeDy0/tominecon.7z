@@ -6,9 +6,9 @@
 
 ___
 
-  📂 Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
+  ***📂 Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
 
-  🔑 Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Password.txt)
+  ***🔑 Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Password.txt)***
   
  ___
 
