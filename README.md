@@ -1,7 +1,8 @@
 <p align="center">
   <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-proflie.png?raw=true" align="center" alt="MrSPeeDy0 Doors-Script" />
   <h2 align="center">MrSPeeDy0 - tominecon.7z</h2>
-  <p align="center">The real file not decoy</p>
+  <p align="center">Tominecon.7z, an ancient Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
+  <p align="center">Please take note that I did not crack the password.</p>
   <p align="center">
    
   Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
