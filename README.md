@@ -13,9 +13,9 @@ ___
  **Download Decoy: [tominecon_decoy.7z](https://mega.nz/file/rnhEjTDS#S_lVmxkz1twZb3FDpdxSKh75VR8UKjg9kqn2rH4jq9I)**
 ___
 # 🔑 Passwords
-  **Password Original: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
+  **Password Original: [boxpig41](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
 
-   **Password Decoy: [Click here](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password_decoy.txt)**
+   **Password Decoy: [thespicemustflow](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password_decoy.txt)**
   
  ___
 
