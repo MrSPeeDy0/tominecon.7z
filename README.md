@@ -13,7 +13,7 @@
   </div>
   <hr />
 </p>
-<div align="left">
+    
 # 📥 Downloads
 **Download Original: [tominecon.7z](https://mega.nz/file/TjYhGDYR#rA0DEzVsJe5TTerlTgjpSsmPFUnIZJp4m4CxfkVGHYY)**
 
