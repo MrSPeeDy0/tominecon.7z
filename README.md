@@ -5,6 +5,7 @@
     <p>Tominecon.7z, a Minecraft leak, has been lost for 13 years. But today, for the first time, we've discovered it and cracked the password.</p>
   </div>
   <hr />
+  <div align="center">
   All links and files are safe and have already been scanned by VirusTotal.
   <hr />
   <div align="center">
@@ -38,3 +39,5 @@ ___
 ___
 
 **✅ Made by: MrSPeeDy0**
+
+___
