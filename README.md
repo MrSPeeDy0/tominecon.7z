@@ -16,7 +16,7 @@
 
 ___
 
-<div align="center">
+<div align="left">
 
 # 🔑 Passwords
 **Password Original: [boxpig41](https://raw.githubusercontent.com/MrSPeeDy0/tominecon.7z/main/Assets/Passwords/Password.txt)**
@@ -27,7 +27,7 @@ ___
 
 ___
 
-<div align="center">
+<div align="left">
 
 **ℹ More information about tominecon.7z:**
 
